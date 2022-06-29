@@ -1,1 +1,3 @@
-export const greet = (name) => {};
+export const greet = (name) => {
+  return "Hello Teacher!";
+};
